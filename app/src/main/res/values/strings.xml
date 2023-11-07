@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CampusXplorer</string>
+    <string name="title_activity_base_map">BaseMap</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoicGVuc3BlbmNpbCIsImEiOiJjbG9uNGVtaXgxb2N6MmpvNTRldXRqNDVoIn0.q5V-HPlFpRwoC4MsSz1Rdw</string>
+    <string name="mapbox_styleURL">mapbox://styles/penspencil/clonefuqe00dn01o434pw7e8e</string>
+</resources>
